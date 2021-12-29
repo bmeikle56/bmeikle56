@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and App Development
 - 🌱 I’m currently learning C, Swift, and Java
 - 💞️ I’m looking to collaborate on a new iOS app or any other exciting projects
-- 📫 Reach me at bmeikle3@gatech.edu or (703) 999-1175
+- 📫 Reach me at bmeikle3@gatech.edu
 
 <!---
 bmeikle56/bmeikle56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
