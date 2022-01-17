@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Braeden Meikle
 - 👀 I’m interested in Software Engineering and App Development
-- 🌱 I’m currently learning C, Swift, and Java
-- 💞️ I’m looking to collaborate on a new iOS app or any other exciting projects
+- 🌱 I’m currently learning Swift, Javascript, and CSS
+- 💞️ I’m looking to collaborate on an iOS app, Android app, website, or any Java or C project
 - 📫 Reach me at bmeikle3@gatech.edu
 
 <!---
