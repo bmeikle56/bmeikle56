@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Braeden Meikle
-- 👀 I’m interested in Frontend Web and Mobile App Development
-- 🌱 I’m currently learning Dart, JavaScript, Go, CSS, and HTML
-- 📫 My email is braedenmeikle@gmail.com
+```
+{
+  metadata: {
+    name: "Braeden Meikle,
+    learning: "full-stack dev, Dart (frontend), Go (backend), CSS/HTML/JS (web)",
+    interests: "tennis, poker, house music, wizards"
+  }
+}
+```
