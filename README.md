@@ -4,9 +4,9 @@
     name: "Braeden Meikle",
     learning: [
         "full-stack dev",
-        "Dart (frontend)",
+        "Swift, Dart (mobile frontend)",
         "Go (backend)",
-        "CSS/HTML/JS (web)"
+        "CSS/HTML/JS (web frontend)"
     ],
     interests: [
         "tennis",
