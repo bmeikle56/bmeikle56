@@ -12,6 +12,7 @@
         "tennis",
         "poker",
         "house music",
+        "reading",
         "wizards"
     ]
   }
