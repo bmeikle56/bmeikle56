@@ -5,7 +5,7 @@
     learning: [
         "full-stack dev",
         "Swift, Dart (mobile frontend)",
-        "Go (backend)",
+        "Go, TypeScript (backend)",
         "CSS/HTML/JS (web frontend)"
     ],
     interests: [
@@ -13,7 +13,8 @@
         "poker",
         "house music",
         "reading",
-        "wizards"
+        "wizards",
+        "yellowjackets"
     ]
   }
 }
